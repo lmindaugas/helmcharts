@@ -9,6 +9,6 @@ entries:
     name: first-chart
     type: application
     urls:
-    - https://github.com/lmindaugas/helmcharts/first-chart-0.1.0.tgz
+    - https://lmindaugas.github.io/helmcharts/first-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-02T09:04:16.329586578Z"
